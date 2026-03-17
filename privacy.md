@@ -1,5 +1,3 @@
- Privacy Policy — for secretary-privacy repo, index.md:
-
   # Secretary Privacy Policy
 
   **Effective Date:** March 17, 2026
