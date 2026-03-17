@@ -30,8 +30,5 @@
   terms.
 
   **Contact:**
-  For inquiries, reach out to Jason Dsouza at artsintelinc@gmail.com
+  For inquiries, reach out to us at artsintelinc@gmail.com
 
-  Create two GitHub Pages repos like your Trot one, and the PaywallView links will point to:
-  - https://artsintelinc.github.io/secretary-privacy
-  - https://artsintelinc.github.io/secretary-terms
