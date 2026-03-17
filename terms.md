@@ -1,4 +1,4 @@
-Terms of Service — for secretary-terms repo, index.md:
+
 
   # Secretary Terms of Service
 
