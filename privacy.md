@@ -37,5 +37,5 @@
   any changes.
 
   **Contact:**
-  For inquiries, reach out to Jason Dsouza at artsintelinc@gmail.com
+  For inquiries, reach out to us at artsintelinc@gmail.com
 
